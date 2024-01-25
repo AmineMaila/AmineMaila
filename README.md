@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">Computer Sience Student at 1337</h3>
+<h3 align="center">Computer Science Student at 1337</h3>
 
 ###
 
