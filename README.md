@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">Computer Science Student at 1337</h3>
+<h3 align="center">Computer Science Student at 1337 | 42 Network</h3>
 
 ###
 
@@ -19,7 +19,7 @@
 
 ###
 
-<h3 align="left">- Currently enrolled in the 1337 common core program.<br><br>- Actively taking part in the school held activities such as competitive programing.<br><br>- Passionate about learning new things, sharing my knowledge, challenging my capabilities and solving coding problems.</h3>
+<h3 align="left">- Currently enrolled in the 1337 | 42 Network Curriculum program.<br><br>- Actively taking part in the school held activities such as competitive programing.<br><br>- Passionate about learning new things, sharing my knowledge, challenging my capabilities and solving coding problems.</h3>
 
 ###
 
