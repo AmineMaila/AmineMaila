@@ -40,7 +40,10 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmineMaila&radius=16&theme=github-dark&area=true&order=5&hide_border=true&hide_title=false&custom_title=Contributions" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmineMaila&theme=github-dark&hide_border=true" height="200" alt="streak stats"  />
+  <br><br>
+  <img src="https://github.com/AmineMaila/AmineMaila/blob/main/contribution_table.png" height="300" alt="contributions table" />
 </div>
 
 ###
+
