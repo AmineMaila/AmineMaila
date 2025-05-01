@@ -37,9 +37,5 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AmineMaila&theme=github-dark&hide_border=true" height="150" alt="streak stats" />
-</div>
-
-<div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmineMaila&theme=github_dark" height="150" alt="contribution table"/>
 </div>
