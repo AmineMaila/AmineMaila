@@ -35,17 +35,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
   <img width="12" />
-  <!-- Fastify -->
-  <img src="https://raw.githubusercontent.com/fastify/graphics/master/fastify-icon-2021.svg" height="40" alt="fastify logo" />
-  <img width="12" />
   <!-- TypeScript -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="40" alt="typescript logo" />
-  <img width="12" />
-  <!-- FastAPI -->
-  <img src="https://raw.githubusercontent.com/fastapi/fastapi/master/docs/en/docs/img/icon.svg" height="40" alt="fastapi logo" />
-  <img width="12" />
-  <!-- Docker Compose (PNG) -->
-  <img src="https://docs.docker.com/compose/images/logo.png" height="40" alt="docker compose logo" />
   <img width="12" />
   <!-- PostgreSQL -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" height="40" alt="postgresql logo" />
@@ -53,13 +44,22 @@
   <!-- SQLAlchemy -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="40" alt="sqlalchemy logo" />
   <img width="12" />
-  <!-- WebSockets (PNG) -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/WebSocket_icon.png" height="40" alt="websockets logo" />
-  <img width="12" />
   <!-- Tailwind CSS -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="tailwindcss logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg"
+       height="40" alt="tailwindcss logo" />
+  <img width="12" />
+  <!-- WebSockets -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cd/WebSocket_colored_logo.svg"
+       height="40" alt="websockets logo" />
+  <img width="12" />
+  <!-- FastAPI -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/FastAPI_logo.svg"
+       height="40" alt="fastapi logo" />
+  <img width="12" />
+  <!-- Fastify -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Fastify_logo.svg"
+       height="40" alt="fastify logo" />
 </div>
-
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmineMaila&theme=github_dark" height="150" alt="contribution table"/>
 </div>
