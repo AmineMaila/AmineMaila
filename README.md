@@ -45,15 +45,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="40" alt="sqlalchemy logo" />
   <img width="12" />
   <!-- Tailwind CSS -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg"
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"
        height="40" alt="tailwindcss logo" />
   <img width="12" />
   <!-- WebSockets -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cd/WebSocket_colored_logo.svg"
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/websockets/websockets-original.svg"
        height="40" alt="websockets logo" />
   <img width="12" />
   <!-- FastAPI -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/FastAPI_logo.svg"
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"
        height="40" alt="fastapi logo" />
   <img width="12" />
   <!-- Fastify -->
