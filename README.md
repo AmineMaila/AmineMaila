@@ -57,7 +57,7 @@
        height="40" alt="fastapi logo" />
   <img width="12" />
   <!-- Fastify -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Fastify_logo.svg"
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastify/fastify-original.svg"
        height="40" alt="fastify logo" />
 </div>
 <div align="center">
