@@ -49,7 +49,7 @@
        height="40" alt="tailwindcss logo" />
   <img width="12" />
   <!-- WebSockets -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/websockets/websockets-original.svg"
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/websocket/websocket-original.svg"
        height="40" alt="websockets logo" />
   <img width="12" />
   <!-- FastAPI -->
