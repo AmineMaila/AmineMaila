@@ -29,13 +29,35 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="40" alt="react logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="40" alt="nodejs logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
   <img width="12" />
+  <!-- Fastify -->
+  <img src="https://raw.githubusercontent.com/fastify/graphics/master/fastify-icon-2021.svg" height="40" alt="fastify logo" />
+  <img width="12" />
+  <!-- TypeScript -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="40" alt="typescript logo" />
+  <img width="12" />
+  <!-- FastAPI -->
+  <img src="https://raw.githubusercontent.com/fastapi/fastapi/master/docs/en/docs/img/icon.svg" height="40" alt="fastapi logo" />
+  <img width="12" />
+  <!-- Docker Compose (PNG) -->
+  <img src="https://docs.docker.com/compose/images/logo.png" height="40" alt="docker compose logo" />
+  <img width="12" />
+  <!-- PostgreSQL -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" height="40" alt="postgresql logo" />
+  <img width="12" />
+  <!-- SQLAlchemy -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="40" alt="sqlalchemy logo" />
+  <img width="12" />
+  <!-- WebSockets (PNG) -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/WebSocket_icon.png" height="40" alt="websockets logo" />
+  <img width="12" />
+  <!-- Tailwind CSS -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="tailwindcss logo" />
 </div>
 
 <div align="center">
